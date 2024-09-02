@@ -8,7 +8,7 @@ This project is a beautifully crafted, responsive website designed to showcase f
 ## Features
 
 - **Responsive Design:** The website is fully responsive, adapting to different screen sizes, from mobile phones to desktop monitors.
-- **Interactive Elements:** The flowers and other elements on the page may have interactive properties, using JavaScript to enhance user experience.
+- **Interactive Elements:** The flowers and other elements on the page may have interactive properties, using CSS to enhance user experience.
 - **Customizable:** The design and content are easily customizable, allowing you to modify the text, colors, and images as per your needs.
 
 ## Technologies Used
@@ -31,7 +31,6 @@ This project is a beautifully crafted, responsive website designed to showcase f
 
 - **CSS:** Customize the design by altering the styles in the style.css file.
 
-- **JavaScript:** Enhance interactivity by adding or modifying scripts in the script.js file.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
