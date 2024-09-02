@@ -15,7 +15,7 @@ This project is a beautifully crafted, responsive website designed to showcase f
 
 - **HTML5:** Structure and content of the webpage.
 - **CSS3:** Styling and layout of the website, ensuring a visually pleasing and responsive design.
-- **JavaScript:** Adds interactivity to the flowers and other elements on the page.
+
 
 ## How to Use
 
